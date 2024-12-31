@@ -1,3 +1,5 @@
+![Blue Illustration Technology LinkedIn Banner (2)](https://github.com/CollinsU99/CollinsU99/assets/124742607/2f48ee3a-08e6-470f-92da-c1296c9ae7d1)
+
 <h1>Hi, I'm Jamal, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 # 💫 About Me:
