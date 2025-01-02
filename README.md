@@ -34,4 +34,4 @@ Outside of IT, I am a passionate graphic designer and artist, bringing a creativ
 
 [<img align="left" alt="Jamal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/jamal-zaman
+[linkedin]: https://linkedin.com/in/Jamal-zaman
